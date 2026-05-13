@@ -1,1 +1,4 @@
-Java Questions and Answers 
+What is Java? 
+Java is a programming language. 
+What is JVM? 
+JVM stands for Java Virtual Machine 
